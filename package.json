@@ -1,0 +1,25 @@
+{
+  "name": "webmanager",
+  "version": "1.0.0",
+  "description": "Manage all of your common web activities based on custom profiles by the users needs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dub10us/WebManager.git"
+  },
+  "keywords": [
+    "Web",
+    "NodeJs",
+    "Sites",
+    "Manager"
+  ],
+  "author": "Chris Smith",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dub10us/WebManager/issues"
+  },
+  "homepage": "https://github.com/dub10us/WebManager#readme"
+}
