@@ -1,0 +1,10 @@
+{
+    "profile":"Social Media",
+    "meta":{
+        "created":"07-16-2020"
+    },
+    "uriArray": [
+        "https://www.twitter.com",
+        "https://www.facebook.com"
+    ]
+}
