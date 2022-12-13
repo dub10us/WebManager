@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/dub10us/WebManager#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "open": "^7.0.4",
     "opn": "^6.0.0"
   }
